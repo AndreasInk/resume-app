@@ -8,7 +8,7 @@ import VisionTextView from './components/VisionTextView';
 import ToggleSwitch from './components/ToggleSwitch';
 import RedirectToApp from './components/RedirectToApp';
 import config from './data/config.json';
-import './App.css';  // Create and import a CSS file for additional styles
+import './App.css'; 
 
 const App = () => {
   const [resumeMode, setResumeMode] = useState(false);
