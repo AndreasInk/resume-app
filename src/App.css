@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  text-align: left;
+  height: 100vh;
+  display: flex;
 }
 
 .App-logo {
@@ -35,4 +37,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* App.css */
+.scroll-container {
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.scroll-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.scroll-section:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+.scroll-section:nth-child(odd) {
+  background-color: #ffffff;
 }
