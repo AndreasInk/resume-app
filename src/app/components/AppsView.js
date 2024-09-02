@@ -56,7 +56,7 @@ const data = [
   {
     category: "Education",
     title: "ExamCram",
-    src: "/examcram.png",
+    src: "/ExamCram.png",
     content: (
       <ProjectContent
         text={{
@@ -64,7 +64,7 @@ const data = [
           description:
             "ExamCram helps students learn more effectively by generating personalized quizzes, flashcards, and AI-driven study guides. With over 11,000 downloads, it's a favorite among tech-savvy learners.",
         }}
-        imageUrl="/examcram.png" // Local image path
+        imageUrl="/ExamCram.png" // Local image path
         altText="ExamCram App Mockup"
       />
     ),
