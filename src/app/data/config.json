@@ -1,0 +1,166 @@
+{
+  "developer": {
+    "name": "Andreas Ink",
+    "bio": "I am passionate about creating apps that enhance productivity and promote healthier lifestyles. As an iOS developer at Rune Labs, a student at the University of North Florida, and a dedicated side project enthusiast, I continuously explore the intersection of technology and personal well-being.",
+    "work": "iOS developer at Rune Labs, student at University of North FL, and side projects enthusiast."
+  },
+  "years": [
+    {
+      "year": 2019,
+      "content": [
+        {
+          "type": "teamMember",
+          "image": "andreas",
+          "name": "Andreas Ink",
+          "bio": "Driven to build apps that empower users to live healthier, more productive lives."
+        },
+        {
+          "type": "text",
+          "content": "I balance my role as an iOS developer at Rune Labs with my studies at the University of North Florida, all while pursuing a variety of side projects."
+        },
+        {
+          "type": "toggle",
+          "label": "Resume mode?",
+          "key": "resumeMode"
+        },
+        {
+          "type": "dock",
+          "key": "dock"
+        },
+        {
+          "type": "apps",
+          "key": "apps"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "content": [
+        {
+          "type": "covidWatchView",
+          "resumeMode": true,
+          "texts": {
+            "default": [
+              "In 2020, I joined the Covid Watch initiative, focused on reducing the spread of Covid-19 through Exposure Notifications. This project aimed to encourage safety measures such as isolation or wearing masks after potential exposure.",
+              "It was an eye-opening experience where I learned the value of collaboration, and deepened my skills in SwiftUI. I realized that impactful work often comes down to a mix of relentless effort and a bit of luck."
+            ],
+            "resumeMode": [
+              "Enhanced user interface using UIKit and SwiftUI.",
+              "Helped achieve a 12% reduction in Covid-19 transmission at The University of Arizona.",
+              "Propelled the app to 23rd place in the App Store’s medical category.",
+              "Developed marketing materials featured on national ABC News.",
+              "Supported integration of Google and Apple's Exposure Notification framework."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "content": [
+        {
+          "type": "impactView",
+          "resumeMode": true,
+          "texts": {
+            "vito": {
+              "default": [
+                "Inspired by Covid Watch, I founded Vito to tackle infectious disease detection with a stronger emphasis on privacy and community engagement. I believed that stricter privacy controls would foster greater user trust and wider adoption.",
+                "While Vito was ultimately discontinued, the journey taught me invaluable lessons in research and community building. I remain proud of the collaborative spirit and technical achievements we reached."
+              ],
+              "resumeMode": [
+                "Founded Vito for early detection of infectious diseases using biometric data.",
+                "Implemented complex algorithms on iOS, Android, and Streamlit using Swift, Kotlin, and Python.",
+                "Built and managed a community of 50 student collaborators over a year."
+              ]
+            },
+            "cerebellia": {
+              "default": [
+                "Driven by a desire to help my father manage Parkinson’s disease, I co-founded Cerebellia. We built a prototype PCB that interfaced with an iOS app, utilizing Apple’s Movement Disorder toolkit.",
+                "The project gained significant media attention, appearing in TechCrunch and The Verge—achieved through a simple cold email. This was a proud moment and showed the power of persistence and outreach."
+              ],
+              "resumeMode": [
+                "Featured in TechCrunch and The Verge for breakthroughs in health technology.",
+                "Secured special entitlement to use Apple’s Movement Disorder API for measuring tremors with Apple Watch.",
+                "Developed a native iOS app that promotes lifestyle adjustments for Parkinson’s patients."
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "content": [
+        {
+          "type": "impactView2",
+          "resumeMode": true,
+          "texts": {
+            "rune": {
+              "default": [
+                "After Cerebellia caught attention in tech media, I was offered a role at Rune Labs, which felt like the perfect continuation of my journey in health tech.",
+                "Working at Rune has been incredibly fulfilling—collaborating with a fantastic team and having the unique opportunity to test app features directly with my Dad, who has Parkinson's."
+              ],
+              "resumeMode": [
+                "Increased App Store ratings for StrivePD by 0.6 stars through enhanced activity and in-app rating features.",
+                "Modernized the codebase with Swift Package Manager and SwiftUI integration.",
+                "Implemented Siri integration to streamline user interactions with the app."
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "content": [
+        {
+          "type": "impactView3",
+          "resumeMode": true,
+          "texts": {
+            "rune": [
+              "Designed and implemented a tremor and dyskinesia tracking chart for improved patient insights.",
+              "Refreshed the entire app's UI with a modern blend of SwiftUI and UIKit.",
+              "Improved Apple Watch stability for continuous monitoring.",
+              "Created a tap test feature now utilized by a pharmaceutical partner."
+            ],
+            "pingPath": [
+              "Launched PingPath, an app built with SwiftUI to assist visually impaired users.",
+              "Conducted user research to refine the UX and ensure accessibility.",
+              "Implemented a pathfinding algorithm utilizing spatial audio for guided navigation."
+            ],
+            "examCram": [
+              "Released ExamCram, achieving over 5,000 downloads in its first year.",
+              "Built the app using SwiftUI, making it compatible with nearly every Apple platform.",
+              "Developed a companion React web app to expand access to users beyond the Apple ecosystem."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "content": [
+        {
+          "type": "visionTextView",
+          "text": "Crafted by Andreas Ink",
+          "secondaryText": [
+            "Thank you for using the app! It’s a result of countless hours of dedication and effort.",
+            "I hope it brings value to your life, just as creating it has brought purpose to mine.",
+            "If you find this app helpful, please consider leaving a review—it truly makes a difference!"
+          ]
+        },
+        {
+          "type": "button",
+          "label": "Leave a thank you",
+          "action": "requestReview"
+        },
+        {
+          "type": "link",
+          "url": "https://andreas.craft.me/QNAYKoY63A64Gl",
+          "label": "Explore my resume",
+          "description": "Tap above to learn more about my projects, experiences, and vision."
+        }
+      ]
+    }
+  ]
+}
